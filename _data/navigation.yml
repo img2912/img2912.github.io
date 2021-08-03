@@ -1,6 +1,1 @@
-name: Home 
-link: /
-name: About
-link: /about.html
-name: Nueva
-link: /nueva.html
+- name: Home link: / - name: About link: /about.html - name: Nueva link: /nueva.html
