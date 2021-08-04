@@ -1,5 +1,6 @@
 ---
-layout: post author: Victor
+layout: post 
+author: Victor
 title: ¿Qué es un Headless CMS?
 excerpt: En esta entrada se explica qué es un Headless CMS
 ---
